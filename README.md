@@ -1,7 +1,7 @@
-# Trueblocks Trove
+# Trueblocks Mini Dapps
 Our first collection of application built on top of trueblocks-core
 
-# Why "Trove"?
+# A Treasure Trove of New Ideas
 
 **Dictionary**
 treas·ure trove
